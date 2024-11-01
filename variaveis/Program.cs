@@ -17,3 +17,43 @@ char inicial = "W";
 // Tipos Lógicos
 bool estaLogado = true;
 bool ativo = false;
+
+// Tipos de dados Não Primitivos
+string saudacao = "Olá mundo!";
+
+// Arrays
+int[] numeros = {1, 2, 3, 4, 5};
+string[] nomes = {"Wanderson Timóteo", "Ryan Timóteo", "Jeane Timóteo"};
+
+// Classes
+public class Pessoa
+{
+  public string Nome;
+  public int idade;
+}
+
+// Structs
+public class Ponto
+{
+  public int X;
+  public int Y;
+
+}
+
+// Enums
+public enum diaDaSemana 
+{
+  Segunda, Terca, Quarta, Quinta, Sexta, Sabado, Domingo
+}
+
+// Interfaces
+public interface IVeiculo
+{
+  void Mover();
+}
+
+// Delegates
+public void delegate Processar(int numero);
+
+// Nullable types
+int? idade = null;
