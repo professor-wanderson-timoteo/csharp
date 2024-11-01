@@ -1,0 +1,15 @@
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\bin\Debug\net8.0\variaveis.exe
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\bin\Debug\net8.0\variaveis.deps.json
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\bin\Debug\net8.0\variaveis.runtimeconfig.json
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\bin\Debug\net8.0\variaveis.dll
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\bin\Debug\net8.0\variaveis.pdb
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\obj\Debug\net8.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\obj\Debug\net8.0\variaveis.AssemblyInfoInputs.cache
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\obj\Debug\net8.0\variaveis.AssemblyInfo.cs
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\obj\Debug\net8.0\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\obj\Debug\net8.0\variaveis.sourcelink.json
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\obj\Debug\net8.0\variaveis.dll
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\obj\Debug\net8.0\refint\variaveis.dll
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\obj\Debug\net8.0\variaveis.pdb
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\obj\Debug\net8.0\variaveis.genruntimeconfig.cache
+C:\Users\Jeane\OneDrive\Documentos\Github\csharp\variaveis\obj\Debug\net8.0\ref\variaveis.dll
