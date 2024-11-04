@@ -21,3 +21,4 @@ bool b = false;
 bool c = false;
 bool resultado5 = !a || (b && c);
 Console.WriteLine(resultado5);
+
