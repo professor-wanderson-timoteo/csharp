@@ -1,0 +1,15 @@
+C:\Projetos\csharp\estrutura-repeticao\bin\Debug\net8.0\estrutura-repeticao.exe
+C:\Projetos\csharp\estrutura-repeticao\bin\Debug\net8.0\estrutura-repeticao.deps.json
+C:\Projetos\csharp\estrutura-repeticao\bin\Debug\net8.0\estrutura-repeticao.runtimeconfig.json
+C:\Projetos\csharp\estrutura-repeticao\bin\Debug\net8.0\estrutura-repeticao.dll
+C:\Projetos\csharp\estrutura-repeticao\bin\Debug\net8.0\estrutura-repeticao.pdb
+C:\Projetos\csharp\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\csharp\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.AssemblyInfoInputs.cache
+C:\Projetos\csharp\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.AssemblyInfo.cs
+C:\Projetos\csharp\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.csproj.CoreCompileInputs.cache
+C:\Projetos\csharp\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.sourcelink.json
+C:\Projetos\csharp\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.dll
+C:\Projetos\csharp\estrutura-repeticao\obj\Debug\net8.0\refint\estrutura-repeticao.dll
+C:\Projetos\csharp\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.pdb
+C:\Projetos\csharp\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.genruntimeconfig.cache
+C:\Projetos\csharp\estrutura-repeticao\obj\Debug\net8.0\ref\estrutura-repeticao.dll
