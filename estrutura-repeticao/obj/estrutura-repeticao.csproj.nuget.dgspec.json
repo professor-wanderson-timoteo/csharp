@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\csharp\\estrutura-repeticao\\estrutura-repeticao.csproj": {}
+    "c:\\Projetos\\csharp\\estrutura-repeticao\\estrutura-repeticao.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\csharp\\estrutura-repeticao\\estrutura-repeticao.csproj": {
+    "c:\\Projetos\\csharp\\estrutura-repeticao\\estrutura-repeticao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\csharp\\estrutura-repeticao\\estrutura-repeticao.csproj",
+        "projectUniqueName": "c:\\Projetos\\csharp\\estrutura-repeticao\\estrutura-repeticao.csproj",
         "projectName": "estrutura-repeticao",
-        "projectPath": "C:\\Projetos\\csharp\\estrutura-repeticao\\estrutura-repeticao.csproj",
+        "projectPath": "c:\\Projetos\\csharp\\estrutura-repeticao\\estrutura-repeticao.csproj",
         "packagesPath": "C:\\Users\\Jeane\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\csharp\\estrutura-repeticao\\obj\\",
+        "outputPath": "c:\\Projetos\\csharp\\estrutura-repeticao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeane\\AppData\\Roaming\\NuGet\\NuGet.Config"
