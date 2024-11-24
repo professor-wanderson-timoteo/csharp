@@ -8,16 +8,18 @@ namespace exercicio_classes.Modelo
     public class Veiculo
     {
         // Atributos
-        string marca;
-        string modelo;
-        int ano;
+        private string marca;
+        private string modelo;
+        private int ano;
+        protected double velocidadeAtual;
 
         // construtor
-        public Veiculo(string marca, string modelo, int ano) 
+        public Veiculo(string marca, string modelo, int ano, double velocidadeAtual) 
         {
             this.marca = marca;
             this.modelo = modelo;
             this.ano = ano;
+            this.velocidadeAtual = 0;
         }
 
         // Métodos
