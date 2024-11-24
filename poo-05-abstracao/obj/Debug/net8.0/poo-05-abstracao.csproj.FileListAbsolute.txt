@@ -1,0 +1,15 @@
+C:\Workspaces-Windows\csharp\poo-05-abstracao\obj\Debug\net8.0\poo-05-abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces-Windows\csharp\poo-05-abstracao\obj\Debug\net8.0\poo-05-abstracao.AssemblyInfoInputs.cache
+C:\Workspaces-Windows\csharp\poo-05-abstracao\obj\Debug\net8.0\poo-05-abstracao.AssemblyInfo.cs
+C:\Workspaces-Windows\csharp\poo-05-abstracao\obj\Debug\net8.0\poo-05-abstracao.csproj.CoreCompileInputs.cache
+C:\Workspaces-Windows\csharp\poo-05-abstracao\obj\Debug\net8.0\poo-05-abstracao.sourcelink.json
+C:\Workspaces-Windows\csharp\poo-05-abstracao\bin\Debug\net8.0\poo-05-abstracao.exe
+C:\Workspaces-Windows\csharp\poo-05-abstracao\bin\Debug\net8.0\poo-05-abstracao.deps.json
+C:\Workspaces-Windows\csharp\poo-05-abstracao\bin\Debug\net8.0\poo-05-abstracao.runtimeconfig.json
+C:\Workspaces-Windows\csharp\poo-05-abstracao\bin\Debug\net8.0\poo-05-abstracao.dll
+C:\Workspaces-Windows\csharp\poo-05-abstracao\bin\Debug\net8.0\poo-05-abstracao.pdb
+C:\Workspaces-Windows\csharp\poo-05-abstracao\obj\Debug\net8.0\poo-05-abstracao.dll
+C:\Workspaces-Windows\csharp\poo-05-abstracao\obj\Debug\net8.0\refint\poo-05-abstracao.dll
+C:\Workspaces-Windows\csharp\poo-05-abstracao\obj\Debug\net8.0\poo-05-abstracao.pdb
+C:\Workspaces-Windows\csharp\poo-05-abstracao\obj\Debug\net8.0\poo-05-abstracao.genruntimeconfig.cache
+C:\Workspaces-Windows\csharp\poo-05-abstracao\obj\Debug\net8.0\ref\poo-05-abstracao.dll
