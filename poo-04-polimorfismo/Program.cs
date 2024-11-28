@@ -16,5 +16,5 @@ harleyDavidson.Empinar();
 Console.WriteLine("\nCriando instância da Classe Carro");
 Carro ferrari = new Carro("Ferrari", "Ferrari Enzo", 2024, 10, true, 2);
 ferrari.Acelerar(260);
-ferrari.Frear(200, true, true);
+ferrari.Frear(200, false);
 ferrari.AbrirPortas();
