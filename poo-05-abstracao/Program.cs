@@ -10,6 +10,8 @@ Console.WriteLine("POO: Abstração\n");
 // veiculo.Acelerar(60);
 // veiculo.Frear(20);
 
+
+
 Console.WriteLine("\nCriando instância da Classe Moto");
 Moto harleyDavidson = new Moto("Harley Davidson", "Turbo S10", 2025, 30, true, true);
 harleyDavidson.Acelerar(55);
